@@ -1,0 +1,15 @@
+---
+layout: page
+title: Workshop Description
+permalink: /workshop-description/
+---
+
+Differential Equations (DE) have long been the cornerstone of modelling complex behaviours across a wide array of scientific and engineering domains. Their versatility extends from predicting celestial trajectories in astrophysics to simulating intricate biochemical reactions in biology. In the realm of engineering, DEs are crucial for modelling, analysing, and optimising diverse systems, such as electrical circuits and fluid dynamics.
+
+The intersection of Machine Learning (ML) and DEs has recently emerged as a prosperous field, marking a convergence of classical mathematical modelling tools with advanced ML techniques. This nexus has opened up novel avenues for exploration, particularly in how knowledge about DEs can enrich ML algorithms, e.g. to increase prediction quality, to improve explainability or to lessen the need for data. The workshop proposed here aims to be a melting pot for researchers and practitioners working at the ML-DE intersection, fostering discussions on theoretical underpinnings, innovative architectures, and practical applications.
+
+This workshop will address the heterogeneity of the field, acknowledging the diverse algorithms — from Physics-Informed Neural Networks (PINNs) to Neural Ordinary Differential Equations (Neural ODEs) — that all share a common thread of DEs, yet have different goals and are applied in vastly different domains. The significance of DEs in ML extends beyond physical or engineering applications, their properties are increasingly being harnessed in ML algorithms such as normalising flows or as frameworks for infinitely deep neural networks. However, the full potential of these integration is yet to be fully explored and understood.
+
+One of the objectives is to enhance the energy efficiency of these algorithms. This is particularly pertinent for methods that involve ODE solvers, which are known for their high computational demands. By improving efficiency, the aim is to reduce the carbon footprint associated with AI technologies. The workshop will deal with topics such as embedding DEs into ML frameworks, solving DEs using ML, and enhancing numerical methods with ML. Discussions will also cover the incorporation of expert knowledge provided by DEs into ML, the application of these methodologies in various real-world scenarios, and the exploration of how to extract physical knowledge from learned DEs for explainable AI.
+
+In summary, this workshop is not just a platform for sharing insights, but a step towards consolidating research in a field that is vast and varied. It aims to highlight the necessity of bridging DEs with ML, uncovering new algorithms, and understanding their implications in both science and engineering. This gathering is an invitation to those at the forefront of this exciting field, uniting efforts to pave the way for future breakthroughs and applications.
