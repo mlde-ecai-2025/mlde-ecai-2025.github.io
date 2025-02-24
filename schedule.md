@@ -9,6 +9,6 @@ permalink: /schedule/
 The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and networking opportunities.
 
 ## Workshop Date
-**TBD**
+**either 25th or 26th of October, Full day**
 ## Location 
-**TBD**
+**Bologna, Italy**
