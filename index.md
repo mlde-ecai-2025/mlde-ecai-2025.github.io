@@ -16,7 +16,7 @@ Please find a detailed description of the workshop [here]({%link description.md 
 
 - **Submission Deadline:** 15th of June 2025, 23:59 CEST
 - **Notification of Acceptance:** 15th of July 2025
-- **Workshop Date:** TBD
+- **Workshop Date:** either 25th or 26th of October, Full day
 
 
 ## Highlights of [Call for Papers]({% link call-for-papers.md %})
@@ -29,7 +29,7 @@ Explore the core of our Call for Papers for the ML-DE Workshop, dedicated to the
 - **Paper Format:** Submissions must follow the [PMLR LaTeX template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) for uniformity.
 - **Length:** Up to 8 pages, excluding references and appendices.
 - **Blind Review:** Submissions should be anonymized to adhere to our double-blind review process.
-- **Submission Link:** either 25th or 26th of October, Full day
+- **Submission Link:** TBD
 
 ### Snapshot of Topics of Interest
 
