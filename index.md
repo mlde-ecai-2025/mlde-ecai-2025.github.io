@@ -10,7 +10,7 @@ The second Workshop on "Machine Learning Meets Differential Equations: From Theo
 
 This concise description encapsulates the workshop's objectives, themes, and the potential impact on various scientific and technological domains, positioning it as a pivotal meeting point for researchers and practitioners interested in the future of intelligent technologies.
 
-Please find a detailed description of the workshop [here]({%link description.md %}).
+Please find a detailed description of the workshop [here]({%link description.md %}). Also have a look at last year's [workshop](https://mlde-ecai-2024.github.io) to get an impression of the workshop.
 
 ## Important Dates
 
@@ -29,7 +29,7 @@ Explore the core of our Call for Papers for the ML-DE Workshop, dedicated to the
 - **Paper Format:** Submissions must follow the [PMLR LaTeX template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) for uniformity.
 - **Length:** Up to 8 pages, excluding references and appendices.
 - **Blind Review:** Submissions should be anonymized to adhere to our double-blind review process.
-- **Submission Link:** TBD
+- **Submission Link:** [https://easychair.org/conferences/?conf=mlde2025](https://easychair.org/conferences/?conf=mlde2025)
 
 ### Snapshot of Topics of Interest
 
