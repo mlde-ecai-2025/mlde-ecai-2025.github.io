@@ -38,7 +38,7 @@ We encourage submissions across a broad range of topics, including, but not limi
 
 ## Submission Guidelines
 
-- **Format:** Submissions must be formatted according to the PMLR LaTeX template. Either use our prefilled version [on overleaf](https://www.overleaf.com/read/ftpzwffrtzjj#7eb024) or the offical [PMLR Template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) and change according to our [Example](/assets/pdf/ML_DE_ECAI2024.pdf)
+- **Format:** Submissions must be formatted according to the PMLR LaTeX template. Either use our prefilled version [on overleaf](https://www.overleaf.com/read/rsnntgwcjnpg#8d4bcc) or the offical [PMLR Template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) and change according to our [Example](/assets/pdf/ML_DE_ECAI2024.pdf)
 - **Length:** As specified by the submission format.
 - **Double-Blind Review:** Submissions should not include identifiable information. Repositories must be anonymized, for example using [Anonymous Github](https://anonymous.4open.science/).
 - **Submission Link:** https://easychair.org/conferences/?conf=mlde2025
