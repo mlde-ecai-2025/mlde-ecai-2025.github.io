@@ -7,8 +7,9 @@ permalink: /Chairs/
 The [ML-DE] Workshop on "Machine Learning Meets Differential Equations: From Theory to Applications" is organized by a group of distinguished researchers dedicated to exploring the synergies between machine learning and differential equations.
 
 ### Cecília Coelho
+_HSU-AI – Institute for Artificial Intelligence, Helmut-Schmidt-University, Germany_ 
 _Centre of Mathematics, University of Minho, Portugal_  
-Email: cmartins@cmat.uminho.pt  
+Email: cecilia.coelho@hsu-hh.de  
 Cecília is pursuing a PhD in Mathematics, focusing on the integration of differential equations and neural networks to enhance modeling of real-world systems across various domains. Her research interests span the incorporation of expert knowledge into neural networks and the development of hybrid models.
 
 ### Bernd Zimmering

@@ -19,7 +19,7 @@ We are excited to invite submissions in a variety of formats, catering to differ
 
 ## Highlight
 - **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/).** This collaboration aims to enhance accessibility to emerging topics and expand the field's network. Authors can opt-in or opt-out.
-- **Review Transfer Option** for papers that are not accepted for the main track and related to the workshop's topics can be submitted to our workshop. Please use this [form](https://www.overleaf.com/read/rsnntgwcjnpg#8d4bcc) when submitting your paper. Please make sure to meet our submission guidelines.
+- **Review Transfer Option** for papers that are not accepted for the ECAI main track and related to the workshop's topics can be submitted to our workshop. Contact [MLDEWorkshopECAI25@hsu-hh.de](mailto:MLDEWorkshopECAI25@hsu-hh.de) in case you want this option. Please use this [format](https://www.overleaf.com/read/rsnntgwcjnpg#8d4bcc) when submitting your paper. Please make sure to meet our submission guidelines.
 
 ## Topics of Interest
 
@@ -49,8 +49,8 @@ We warmly invite you to present your work in person, fostering a vibrant exchang
 
 ## Important Dates
 
-- **Submission Deadline:** 15th of June 2025 23:59 CEST
-- **Notification of Acceptance:** 15th of July 2025
+- **Submission Deadline:** ~~15th of June 2025 23:59 CEST~~ 10th of July 2025 23:59 CEST 
+- **Notification of Acceptance:** ~~15th of July 2025~~ latest by 15th of August 2025
 - **Workshop Date:** either 25th or 26th of October, Full day
 
 For more details and submission instructions, please contact us at [MLDEWorkshopECAI25@hsu-hh.de](mailto:MLDEWorkshopECAI25@hsu-hh.de).

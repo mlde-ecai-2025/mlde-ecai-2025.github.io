@@ -14,8 +14,8 @@ Please find a detailed description of the workshop [here]({%link description.md 
 
 ## Important Dates
 
-- **Submission Deadline:** 15th of June 2025, 23:59 CEST
-- **Notification of Acceptance:** 15th of July 2025
+- **Submission Deadline:** ~~15th of June 2025 23:59 CEST~~ 10th of July 2025 23:59 CEST 
+- **Notification of Acceptance:** ~~15th of July 2025~~ latest by 15th of August 2025
 - **Workshop Date:** either 25th or 26th of October, Full day
 
 
