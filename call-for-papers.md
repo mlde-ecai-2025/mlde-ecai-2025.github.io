@@ -51,7 +51,7 @@ We warmly invite you to present your work in person, fostering a vibrant exchang
 
 - **Submission Deadline:** ~~15th of June 2025 23:59 CEST~~ 10th of July 2025 23:59 CEST 
 - **Notification of Acceptance:** ~~15th of July 2025~~ latest by 15th of August 2025
-- **Workshop Date:** either 25th or 26th of October, Full day
+- **Workshop Date:** 26th of October, Full day
 
 For more details and submission instructions, please contact us at [MLDEWorkshopECAI25@hsu-hh.de](mailto:MLDEWorkshopECAI25@hsu-hh.de).
 
