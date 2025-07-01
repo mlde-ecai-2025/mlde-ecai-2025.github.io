@@ -17,6 +17,7 @@ Please find a detailed description of the workshop [here]({%link description.md 
 - **Submission Deadline:** ~~15th of June 2025 23:59 CEST~~ 10th of July 2025 23:59 CEST 
 - **Notification of Acceptance:** ~~15th of July 2025~~ latest by 15th of August 2025
 - **Workshop Date:** 26th of October, Full day
+- **Review Transfer Option Deadline:** 20th of July 2025 23:59 CEST
 
 
 ## Highlights of [Call for Papers]({% link call-for-papers.md %})
@@ -30,6 +31,7 @@ Explore the core of our Call for Papers for the ML-DE Workshop, dedicated to the
 - **Length:** Up to 8 pages, excluding references and appendices.
 - **Blind Review:** Submissions should be anonymized to adhere to our double-blind review process.
 - **Submission Link:** [https://easychair.org/conferences/?conf=mlde2025](https://easychair.org/conferences/?conf=mlde2025)
+- **Review Transfer Option:** For papers not accepted in the ECAI main track, authors can submit to our workshop. Please follow the rules from the main conference regarding "RESUBMISSION FROM OTHER CONFERENCES" that can be found [here](https://ecai2025.org/call-for-papers/). Please use this [format](https://www.overleaf.com/read/rsnntgwcjnpg#8d4bcc) when submitting your paper. For questions contact us at [MLDEWorkshopECAI25@hsu-hh.de](mailto:MLDEWorkshopECAI25@hsu-hh.de). 
 
 ### Snapshot of Topics of Interest
 
