@@ -49,8 +49,8 @@ We warmly invite you to present your work in person, fostering a vibrant exchang
 
 ## Important Dates
 
-- **Submission Deadline:** ~~15th of June 2025 23:59 CEST~~ 10th of July 2025 23:59 CEST 
-- **Notification of Acceptance:** ~~15th of July 2025~~ latest by 15th of August 2025
+- **Submission Deadline:** ~~15th of June 2025 23:59 CEST~~ 14th of July 2025 23:59 CEST 
+- **Notification of Acceptance:** ~~15th of July 2025~~ latest by 20th of August 2025
 - **Workshop Date:** 26th of October, Full day
 - **Review Transfer Option Deadline:** 20th of July 2025 23:59 CEST
 
