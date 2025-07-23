@@ -21,7 +21,6 @@ The success of the [ML-DE] Workshop on "Machine Learning Meets Differential Equa
 - **Sebastian Eilermann** – HSU-AI Institute for Artificial Intelligence, Helmut-Schmidt-University, Hamburg, Germany
 - **Célio Fernandes** – CEFT, Faculty of Engineering, University of Porto & CMAT, University of Minho, Portugal
 - **Osvaldo Freitas** – Department of Astronomy and Astrophysics, Universitat de València, Spain & CF-UM-UP, University of Minho, Portugal
-- **Vaibhav Gupta** – Chair for Data Engineering, Helmut-Schmidt-University, Hamburg, Germany
 - **Anna Krause** – Center for Artificial Intelligence and Data Science (CAIDAS), University of Würzburg, Germany
 - **Thibault Monsel** – LISN, Université Paris-Saclay, CNRS & INRIA, France
 - **Luísa Morgado** – CEMAT, Instituto Superior Técnico, Universidade de Lisboa & Department of Mathematics, UTAD, Portugal
