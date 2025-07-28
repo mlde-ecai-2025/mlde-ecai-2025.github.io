@@ -12,6 +12,11 @@ This concise description encapsulates the workshop's objectives, themes, and the
 
 Please find a detailed description of the workshop [here]({%link description.md %}). Also have a look at last year's [workshop](https://mlde-ecai-2024.github.io) to get an impression of the workshop.
 
+## Invited Talks:
+- **[Ricardo Baptista, Department of Statistical Sciences, University of Toronto, and Faculty Affiliate at the Vector Institute:](https://www.ricardobaptista.com/)** "Memorization and Regularization in Generative Diffusion Models"
+  Abstract: Diffusion models have emerged as a powerful framework for generative modeling in the information sciences and many scientific domains. To generate samples from the target distribution, these models rely on learning the the gradient of the data distribution's log-density using a score matching procedure. A key element for the success of diffusion models is that the optimal score function is not identified when solving the denoising score matching problem. In fact, the optimal score in both unconditioned and conditioned settings leads to a diffusion model that returns to the training samples and effectively memorizes the data distribution. In this presentation, we study the dynamical system associated with the optimal score and describe its long-term behavior relative to the training samples. Lastly, we show the effect of two forms of score function regularization on avoiding memorization: restricting the score's approximation space and early stopping of the training process. These results are numerically validated using distributions with and without densities including image-based inverse problems for scientific machine learning applications.
+- **[Andrei A. Klishin, Department of Mechanical Engineering, University of Hawaiʻi at Mānoa:](https://aklishin.science/)** TBA
+
 ## Important Dates
 
 - **Submission Deadline:** ~~15th of June 2025 23:59 CEST~~ 14th of July 2025 23:59 CEST 
