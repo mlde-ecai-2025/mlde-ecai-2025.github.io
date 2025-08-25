@@ -33,7 +33,7 @@ Explore the core of our Call for Papers for the ML-DE Workshop, dedicated to the
 
 ### Brief Submission Guidelines
 
-- **Paper Format:** Submissions must be formatted according to the PMLR LaTeX template. Either use our prefilled version [on overleaf](https://www.overleaf.com/read/rsnntgwcjnpg#8d4bcc) or the offical [PMLR Template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) and change according to our [Example](/assets/pdf/ML_DE_ECAI2024.pdf)
+- **Paper Format:** Submissions must be formatted according to the PMLR LaTeX template. Either use our prefilled version [on overleaf](https://www.overleaf.com/read/rsnntgwcjnpg#8d4bcc) or the official [PMLR Template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) and change according to our [Example](/assets/pdf/ML_DE_ECAI2024.pdf)
 - **Length:** Up to 8 pages, excluding references and appendices.
 - **Blind Review:** Submissions should be anonymized to adhere to our double-blind review process.
 - **Submission Link:** [https://easychair.org/conferences/?conf=mlde2025](https://easychair.org/conferences/?conf=mlde2025)
