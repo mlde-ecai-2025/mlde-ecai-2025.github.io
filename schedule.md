@@ -24,17 +24,17 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 
 ### 9:50-10:30 Session 1: Foundations — Learning Dynamics & Operators
 *Chair: Michael Hohmann*  
-- **9:50–10:10** *A Unified Framework for Neural Computation and Learning Over Time*  
-- **10:10–10:30** *ExtremONet: Extreme-Learning-based Neural Operator for identifying dynamical systems.*
+- **9:50–10:10** *A Unified Framework for Neural Computation and Learning Over Time* [(paper here)](https://proceedings.mlr.press/v277/melacci25a.html)
+- **10:10–10:30** *ExtremONet: Extreme-Learning-based Neural Operator for identifying dynamical systems.* [(paper here)](https://proceedings.mlr.press/v277/beysen25a.html)
 
 ### 10:30-11:00 Coffee Break
 
-### 11:00-13:00 Session 2: Modeling Physical Systems with ML
+### 11:00-13:00 Session 2: Modelling Physical Systems with ML
 *Chair: Luís Ferrás*  
-- **11:00–11:20** *Learning non-Markovian Dynamical Systems with Signature-based Encoders*  
-- **11:20–11:40** *Breaking Free: Decoupling Forced Systems with Laplace Neural Networks*  
-- **11:40–12:00** *TaylorNet: Learning PDEs from Non-Grid Data*    
-- **12:00–12:20** *Hamiltonian Normalizing Flows as kinetic PDE solvers: application to the 1D Vlasov-Poisson Equations*
+- **11:00–11:20** *Learning non-Markovian Dynamical Systems with Signature-based Encoders*  [(paper here)](https://proceedings.mlr.press/v277/pradeleix25a.html)
+- **11:20–11:40** *Breaking Free: Decoupling Forced Systems with Laplace Neural Networks*   [(paper here)](https://doi.org/10.1007/978-3-032-06109-6_15)
+- **11:40–12:00** *TaylorNet: Learning PDEs from Non-Grid Data* [(paper here)](https://proceedings.mlr.press/v277/dulny25a.html)   
+- **12:00–12:20** *Hamiltonian Normalizing Flows as kinetic PDE solvers: application to the 1D Vlasov-Poisson Equations* [(paper here)](https://proceedings.mlr.press/v277/souveton25a.html)
 - **12:20–12:30** *Wrap-Up & Afternoon Outlook*
 
 ### 12:30-14:00 Lunch Break
@@ -45,8 +45,8 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 
 ### 14:45-15:30 Session 3: Sequences, Memory & Generative Models
 *Chair: Niklas Kompe*  
-- **14:45–15:05** *Physics-Informed Graph Neural Networks for Air Pollution Forecasting in the Netherlands*
-- **15:05–15:25** *Flowing Straighter with Conditional Flow Matching for Accurate Speech Enhancement*  
+- **14:45–15:05** *Physics-Informed Graph Neural Networks for Air Pollution Forecasting in the Netherlands* [(paper here)](https://proceedings.mlr.press/v277/assiotis25a.html)
+- **15:05–15:25** *Flowing Straighter with Conditional Flow Matching for Accurate Speech Enhancement* [(paper here)](https://proceedings.mlr.press/v277/cross25a.html)
 - **15:25–15:30** Poster Session Preparation
 
 ### 15:30-16:00 Coffee Break
