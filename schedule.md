@@ -11,7 +11,7 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 ## Workshop Date
 **Sunday, 26th of October 2025, Full Day**  
 ## Location 
-**ECAI 2025, Bologna, Italy** at University of Bologna - The Engineering School
+**ECAI 2025, Bologna, Italy** at University of Bologna - The Engineering School, Room 0.4
 
 ## Conference Timetable
 
